@@ -1,0 +1,1249 @@
+2025-04-01 00:20:27,172 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 00:20:27,172 - __main__ - INFO - Initializing Study Assistant
+2025-04-01 00:20:27,173 - assistant.schedule_manager - WARNING - Schedule file not found
+2025-04-01 00:20:27,173 - assistant.schedule_manager - INFO - Schedule saved successfully
+2025-04-01 00:20:27,173 - assistant.schedule_manager - INFO - New schedule created
+2025-04-01 00:20:27,173 - __main__ - INFO - Schedule data loaded successfully
+2025-04-01 00:20:27,173 - __main__ - INFO - Scheduled 0 alarms
+2025-04-01 00:20:27,208 - __main__ - ERROR - Unhandled exception: EOF when reading a line
+Traceback (most recent call last):
+  File "/home/runner/workspace/main.py", line 305, in main
+    assistant.main_menu()
+  File "/home/runner/workspace/main.py", line 64, in main_menu
+    choice = get_user_input("\nSelect an option (1-6): ")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/assistant/utils.py", line 40, in get_user_input
+    user_input = input(prompt)
+                 ^^^^^^^^^^^^^
+EOFError: EOF when reading a line
+2025-04-01 00:25:32,237 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 00:25:32,238 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 00:25:32,238 - main - INFO - Schedule data loaded successfully
+2025-04-01 00:25:54,087 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 00:25:54,087 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 00:25:54,087 - main - INFO - Schedule data loaded successfully
+2025-04-01 00:25:54,094 - main - INFO - Scheduled 0 alarms
+2025-04-01 00:27:39,450 - assistant.schedule_manager - INFO - Schedule saved successfully
+2025-04-01 00:27:39,451 - assistant.schedule_manager - INFO - Added new alarm: {'time': '21:28', 'days': ['Seg', 'Ter', 'Qua', 'Qui', 'Sex']}
+2025-04-01 00:27:39,451 - main - INFO - Scheduled 1 alarms
+2025-04-01 00:36:49,466 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 00:36:49,468 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 00:36:49,468 - main - INFO - Schedule data loaded successfully
+2025-04-01 00:36:49,469 - main - INFO - Scheduled 1 alarms
+2025-04-01 00:37:47,915 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 00:37:47,915 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 00:37:47,915 - main - INFO - Schedule data loaded successfully
+2025-04-01 00:37:47,916 - main - INFO - Scheduled 1 alarms
+2025-04-01 00:39:02,427 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 00:39:02,427 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 00:39:02,428 - main - INFO - Schedule data loaded successfully
+2025-04-01 00:39:02,441 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 00:39:02,441 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 00:39:02,442 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 00:39:02,442 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 00:39:02,442 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 00:39:02,442 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 00:47:49,592 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 00:47:49,597 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 00:47:49,597 - main - INFO - Schedule data loaded successfully
+2025-04-01 00:47:49,625 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 00:47:49,625 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 00:47:49,625 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 00:47:49,625 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 00:47:49,625 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 00:47:49,626 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 00:48:23,399 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 00:48:23,401 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 00:48:23,401 - main - INFO - Schedule data loaded successfully
+2025-04-01 00:48:23,425 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 00:48:23,425 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 00:48:23,426 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 00:48:23,426 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 00:48:23,426 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 00:48:23,426 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 00:48:33,395 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 00:48:33,399 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 00:48:33,404 - main - INFO - Schedule data loaded successfully
+2025-04-01 00:48:33,436 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 00:48:33,436 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 00:48:33,436 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 00:48:33,436 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 00:48:33,437 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 00:48:33,437 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 00:48:57,651 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 00:48:57,653 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 00:48:57,654 - main - INFO - Schedule data loaded successfully
+2025-04-01 00:48:57,707 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 00:48:57,709 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 00:48:57,710 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 00:48:57,711 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 00:48:57,711 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 00:48:57,712 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 00:49:11,563 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 00:49:11,564 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 00:49:11,564 - main - INFO - Schedule data loaded successfully
+2025-04-01 00:49:11,581 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 00:49:11,582 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 00:49:11,584 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 00:49:11,585 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 00:49:11,587 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 00:49:11,587 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 00:49:31,705 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 00:49:31,705 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 00:49:31,706 - main - INFO - Schedule data loaded successfully
+2025-04-01 00:49:31,723 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 00:49:31,723 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 00:49:31,723 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 00:49:31,723 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 00:49:31,724 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 00:49:31,724 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 00:49:37,417 - main - INFO - Usando mensagem de exemplo (modo simples)
+2025-04-01 00:49:37,418 - main - INFO - Alarme de teste gerado: data/audio/alarme_exemplo_1743468577.txt
+2025-04-01 00:49:55,607 - main - INFO - Usando mensagem de exemplo (modo simples)
+2025-04-01 00:49:55,608 - main - INFO - Alarme de teste gerado: data/audio/alarme_exemplo_1743468595.txt
+2025-04-01 00:50:05,653 - main - INFO - Gerando alarme de teste usando APIs (OpenAI + ElevenLabs)
+2025-04-01 00:50:05,653 - main - INFO - Não há matérias cadastradas, usando mensagem de exemplo
+2025-04-01 00:50:05,655 - main - INFO - Convertendo mensagem para áudio com ElevenLabs
+2025-04-01 00:50:05,655 - assistant.speech_converter - INFO - Enviando solicitação para ElevenLabs com ID da voz: 21m00Tcm4TlvDq8ikWAM
+2025-04-01 00:50:05,655 - assistant.speech_converter - INFO - Texto a ser convertido (primeiros 100 caracteres): Boa tarde! Hora de estudar física e química. Lembre-se de fazer os exercícios práticos....
+2025-04-01 00:50:05,655 - assistant.speech_converter - INFO - URL: https://api.elevenlabs.io/v1/text-to-speech/21m00Tcm4TlvDq8ikWAM
+2025-04-01 00:50:05,655 - assistant.speech_converter - INFO - Headers: {'xi-api-key': 'sk_75126a779a1a615ea72857fd28a67c99f8562079a0848d31', 'Content-Type': 'application/json', 'Accept': 'audio/mpeg'}
+2025-04-01 00:50:05,656 - assistant.speech_converter - INFO - Configurações de voz: {'stability': 0.6, 'similarity_boost': 0.7, 'style': 0.5, 'use_speaker_boost': True}
+2025-04-01 00:50:07,126 - assistant.speech_converter - INFO - Áudio gerado com sucesso: data/audio/speech_1743468607.mp3 (80248 bytes)
+2025-04-01 00:50:07,127 - main - INFO - Alarme de teste gerado: data/audio/speech_1743468607.mp3
+2025-04-01 00:50:07,127 - main - INFO - Reproduzindo áudio: data/audio/speech_1743468607.mp3
+2025-04-01 00:50:07,127 - assistant.audio_player - INFO - Playing audio file: data/audio/speech_1743468607.mp3
+2025-04-01 00:50:07,128 - assistant.audio_player - INFO - Attempting to play with: paplay
+2025-04-01 00:50:53,228 - main - INFO - Gerando alarme de teste usando APIs (OpenAI + ElevenLabs)
+2025-04-01 00:50:53,230 - main - INFO - Não há matérias cadastradas, usando mensagem de exemplo
+2025-04-01 00:50:53,230 - main - INFO - Convertendo mensagem para áudio com ElevenLabs
+2025-04-01 00:50:53,230 - assistant.speech_converter - INFO - Enviando solicitação para ElevenLabs com ID da voz: 21m00Tcm4TlvDq8ikWAM
+2025-04-01 00:50:53,231 - assistant.speech_converter - INFO - Texto a ser convertido (primeiros 100 caracteres): Este é um teste de alarme. O assistente de estudos está funcionando corretamente. Quando configurado...
+2025-04-01 00:50:53,231 - assistant.speech_converter - INFO - URL: https://api.elevenlabs.io/v1/text-to-speech/21m00Tcm4TlvDq8ikWAM
+2025-04-01 00:50:53,231 - assistant.speech_converter - INFO - Headers: {'xi-api-key': 'sk_75126a779a1a615ea72857fd28a67c99f8562079a0848d31', 'Content-Type': 'application/json', 'Accept': 'audio/mpeg'}
+2025-04-01 00:50:53,231 - assistant.speech_converter - INFO - Configurações de voz: {'stability': 0.6, 'similarity_boost': 0.7, 'style': 0.5, 'use_speaker_boost': True}
+2025-04-01 00:50:55,381 - assistant.speech_converter - INFO - Áudio gerado com sucesso: data/audio/speech_1743468655.mp3 (154226 bytes)
+2025-04-01 00:50:55,382 - main - INFO - Alarme de teste gerado: data/audio/speech_1743468655.mp3
+2025-04-01 00:50:55,382 - main - INFO - Reproduzindo áudio: data/audio/speech_1743468655.mp3
+2025-04-01 00:50:55,382 - assistant.audio_player - INFO - Playing audio file: data/audio/speech_1743468655.mp3
+2025-04-01 00:50:55,382 - assistant.audio_player - INFO - Attempting to play with: paplay
+2025-04-01 00:51:06,027 - main - INFO - Usando mensagem de exemplo (modo simples)
+2025-04-01 00:51:06,027 - main - INFO - Alarme de teste gerado: data/audio/alarme_exemplo_1743468666.txt
+2025-04-01 00:51:09,822 - main - INFO - Gerando alarme de teste usando APIs (OpenAI + ElevenLabs)
+2025-04-01 00:51:09,822 - main - INFO - Não há matérias cadastradas, usando mensagem de exemplo
+2025-04-01 00:51:09,822 - main - INFO - Convertendo mensagem para áudio com ElevenLabs
+2025-04-01 00:51:09,822 - assistant.speech_converter - INFO - Enviando solicitação para ElevenLabs com ID da voz: 21m00Tcm4TlvDq8ikWAM
+2025-04-01 00:51:09,823 - assistant.speech_converter - INFO - Texto a ser convertido (primeiros 100 caracteres): Boa tarde! Hora de estudar física e química. Lembre-se de fazer os exercícios práticos....
+2025-04-01 00:51:09,823 - assistant.speech_converter - INFO - URL: https://api.elevenlabs.io/v1/text-to-speech/21m00Tcm4TlvDq8ikWAM
+2025-04-01 00:51:09,823 - assistant.speech_converter - INFO - Headers: {'xi-api-key': 'sk_75126a779a1a615ea72857fd28a67c99f8562079a0848d31', 'Content-Type': 'application/json', 'Accept': 'audio/mpeg'}
+2025-04-01 00:51:09,823 - assistant.speech_converter - INFO - Configurações de voz: {'stability': 0.6, 'similarity_boost': 0.7, 'style': 0.5, 'use_speaker_boost': True}
+2025-04-01 00:51:11,243 - assistant.speech_converter - INFO - Áudio gerado com sucesso: data/audio/speech_1743468671.mp3 (82337 bytes)
+2025-04-01 00:51:11,243 - main - INFO - Alarme de teste gerado: data/audio/speech_1743468671.mp3
+2025-04-01 00:51:11,244 - main - INFO - Reproduzindo áudio: data/audio/speech_1743468671.mp3
+2025-04-01 00:51:11,244 - assistant.audio_player - INFO - Playing audio file: data/audio/speech_1743468671.mp3
+2025-04-01 00:51:11,244 - assistant.audio_player - INFO - Attempting to play with: paplay
+2025-04-01 00:53:50,781 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 00:53:50,782 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 00:53:50,782 - main - INFO - Schedule data loaded successfully
+2025-04-01 00:53:50,815 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 00:53:50,817 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 00:53:50,817 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 00:53:50,817 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 00:53:50,817 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 00:53:50,817 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 00:54:33,394 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 00:54:33,395 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 00:54:33,395 - main - INFO - Schedule data loaded successfully
+2025-04-01 00:54:33,419 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 00:54:33,419 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 00:54:33,419 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 00:54:33,420 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 00:54:33,420 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 00:54:33,420 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 00:55:29,756 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 00:55:29,758 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 00:55:29,758 - main - INFO - Schedule data loaded successfully
+2025-04-01 00:55:29,799 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 00:55:29,800 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 00:55:29,803 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 00:55:29,804 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 00:55:29,805 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 00:55:29,806 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 00:55:45,489 - main - INFO - Usando mensagem de exemplo (modo simples)
+2025-04-01 00:55:45,489 - main - INFO - Alarme de teste gerado: data/audio/alarme_exemplo_1743468945.txt
+2025-04-01 00:59:46,290 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 00:59:46,291 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 00:59:46,291 - main - INFO - Schedule data loaded successfully
+2025-04-01 00:59:46,309 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 00:59:46,309 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 00:59:46,309 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 00:59:46,309 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 00:59:46,309 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 00:59:46,309 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 01:00:36,036 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 01:00:36,036 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 01:00:36,037 - main - INFO - Schedule data loaded successfully
+2025-04-01 01:00:36,051 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 01:00:36,051 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 01:00:36,051 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 01:00:36,052 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 01:00:36,052 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 01:00:36,052 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 01:01:42,073 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 01:01:42,092 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 01:01:42,092 - main - INFO - Schedule data loaded successfully
+2025-04-01 01:01:42,126 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 01:01:42,127 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 01:01:42,127 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 01:01:42,127 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 01:01:42,127 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 01:01:42,127 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 01:02:01,619 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 01:02:01,628 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 01:02:01,629 - main - INFO - Schedule data loaded successfully
+2025-04-01 01:02:01,644 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 01:02:01,645 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 01:02:01,645 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 01:02:01,645 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 01:02:01,645 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 01:02:01,645 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 01:02:05,372 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 01:02:05,386 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 01:02:05,386 - main - INFO - Schedule data loaded successfully
+2025-04-01 01:02:05,406 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 01:02:05,406 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 01:02:05,407 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 01:02:05,407 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 01:02:05,407 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 01:02:05,407 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 01:03:59,146 - assistant.text_generator - INFO - Enviando mensagem para o chat: Como organizar meu tempo de estudo entre várias matérias?...
+2025-04-01 01:03:59,698 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 01:03:59,699 - openai._base_client - INFO - Retrying request to /chat/completions in 0.440697 seconds
+2025-04-01 01:04:00,198 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 01:04:00,198 - openai._base_client - INFO - Retrying request to /chat/completions in 0.860065 seconds
+2025-04-01 01:04:01,119 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-01 01:04:01,120 - assistant.text_generator - ERROR - Erro ao obter resposta do chat: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-04-01 01:04:01,120 - assistant.text_generator - ERROR - Detalhes do erro:
+Traceback (most recent call last):
+  File "/home/runner/workspace/assistant/text_generator.py", line 244, in get_chat_response
+    response = self.client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_utils/_utils.py", line 279, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/resources/chat/completions/completions.py", line 914, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 919, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1008, in _request
+    return self._retry_request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1057, in _retry_request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1008, in _request
+    return self._retry_request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1057, in _retry_request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1023, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-04-01 01:18:30,745 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 01:18:30,768 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 01:18:30,768 - main - INFO - Schedule data loaded successfully
+2025-04-01 01:18:30,823 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 01:18:30,823 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 01:18:30,840 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 01:18:30,840 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 01:18:30,840 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 01:18:30,840 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 01:19:11,700 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 01:19:11,721 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 01:19:11,723 - main - INFO - Schedule data loaded successfully
+2025-04-01 01:19:11,747 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 01:19:11,748 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 01:19:11,748 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 01:19:11,748 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 01:19:11,748 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 01:19:11,749 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 01:19:21,301 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 01:19:21,326 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 01:19:21,326 - main - INFO - Schedule data loaded successfully
+2025-04-01 01:19:21,351 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 01:19:21,353 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 01:19:21,353 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 01:19:21,353 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 01:19:21,354 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 01:19:21,354 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 08:36:29,842 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 08:36:29,856 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 08:36:29,856 - main - INFO - Schedule data loaded successfully
+2025-04-01 08:36:29,889 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 08:36:29,891 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 08:36:29,892 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 08:36:29,893 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 08:36:29,895 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 08:36:29,895 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 08:38:50,943 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 08:38:50,959 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 08:38:50,959 - main - INFO - Schedule data loaded successfully
+2025-04-01 08:38:50,980 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 08:38:50,980 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 08:38:50,981 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 08:38:50,981 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 08:38:50,981 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 08:38:50,981 - main - INFO - Agendados 1 alarmes no total
+2025-04-01 16:01:08,723 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-01 16:01:08,749 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-01 16:01:08,749 - main - INFO - Schedule data loaded successfully
+2025-04-01 16:01:08,832 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-01 16:01:08,832 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-01 16:01:08,832 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-01 16:01:08,833 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-01 16:01:08,833 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-01 16:01:08,848 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 17:29:02,506 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 17:29:02,517 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 17:29:02,518 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 17:29:02,518 - main - INFO - Schedule data loaded successfully
+2025-04-04 17:29:02,530 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 17:29:02,530 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 17:29:02,530 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 17:29:02,531 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 17:29:02,531 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 17:29:02,531 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 17:33:37,260 - main - INFO - Analisando imagem: dummy.png
+2025-04-04 17:33:37,315 - assistant.image_analyzer - WARNING - Image format png might not be supported
+2025-04-04 17:33:37,315 - assistant.image_analyzer - INFO - Sending image to Gemini API for analysis...
+2025-04-04 17:33:38,107 - assistant.image_analyzer - ERROR - Error analyzing image: 404 Gemini 1.0 Pro Vision has been deprecated on July 12, 2024. Consider switching to different model, for example gemini-1.5-flash.
+2025-04-04 17:33:38,108 - assistant.image_analyzer - ERROR - Exception details:
+Traceback (most recent call last):
+  File "/home/runner/workspace/assistant/image_analyzer.py", line 78, in analyze_image
+    response = model.generate_content([prompt, img])
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/google/generativeai/generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/generative_service/client.py", line 835, in generate_content
+    response = rpc(
+               ^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/google/api_core/gapic_v1/method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/google/api_core/retry/retry_unary.py", line 293, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/google/api_core/retry/retry_unary.py", line 153, in retry_target
+    _retry_error_helper(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/google/api_core/retry/retry_base.py", line 212, in _retry_error_helper
+    raise final_exc from source_exc
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/google/api_core/retry/retry_unary.py", line 144, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/google/api_core/timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/google/api_core/grpc_helpers.py", line 78, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 Gemini 1.0 Pro Vision has been deprecated on July 12, 2024. Consider switching to different model, for example gemini-1.5-flash.
+2025-04-04 17:33:58,911 - main - INFO - Usando mensagem de exemplo (modo simples)
+2025-04-04 17:33:58,914 - main - INFO - Alarme de teste gerado: data/audio/alarme_exemplo_1743788038.txt
+2025-04-04 17:34:02,220 - main - INFO - Gerando alarme de teste usando APIs (OpenAI + ElevenLabs)
+2025-04-04 17:34:02,221 - main - INFO - Gerando mensagem personalizada com OpenAI
+2025-04-04 17:34:02,221 - main - INFO - Criando matérias de teste para demonstração
+2025-04-04 17:34:02,221 - assistant.text_generator - INFO - Enviando prompt para OpenAI: 
+        Hoje é Friday, 04 de April de 2025. O estudante está estudando as seguintes matérias: Matemática, Português, Ciências, História, Geografia.
+        
+        Gere uma mensagem matinal breve e ...
+2025-04-04 17:34:02,864 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-04 17:34:02,865 - openai._base_client - INFO - Retrying request to /chat/completions in 0.452224 seconds
+2025-04-04 17:34:03,390 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-04 17:34:03,390 - openai._base_client - INFO - Retrying request to /chat/completions in 0.886673 seconds
+2025-04-04 17:34:04,351 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-04 17:34:04,352 - assistant.text_generator - ERROR - Erro ao gerar mensagem diária: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-04-04 17:34:04,352 - assistant.text_generator - ERROR - Detalhes do erro:
+Traceback (most recent call last):
+  File "/home/runner/workspace/assistant/text_generator.py", line 52, in generate_daily_message
+    response = self.client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_utils/_utils.py", line 279, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/resources/chat/completions/completions.py", line 914, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 919, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1008, in _request
+    return self._retry_request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1057, in _retry_request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1008, in _request
+    return self._retry_request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1057, in _retry_request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1023, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-04-04 17:34:04,356 - main - INFO - Mensagem gerada pela OpenAI: Bom dia! Hoje é Friday, 04 de April de 2025.
+
+Hoje, recomendo que você se concentre em Matemática e ...
+2025-04-04 17:34:04,356 - main - INFO - Convertendo mensagem para áudio com ElevenLabs
+2025-04-04 17:34:04,356 - assistant.speech_converter - INFO - Enviando solicitação para ElevenLabs com ID da voz: 21m00Tcm4TlvDq8ikWAM
+2025-04-04 17:34:04,356 - assistant.speech_converter - INFO - Texto a ser convertido (primeiros 100 caracteres): Bom dia! Hoje é Friday, 04 de April de 2025.
+
+Hoje, recomendo que você se concentre em Matemática e ...
+2025-04-04 17:34:04,356 - assistant.speech_converter - INFO - URL: https://api.elevenlabs.io/v1/text-to-speech/21m00Tcm4TlvDq8ikWAM
+2025-04-04 17:34:04,356 - assistant.speech_converter - INFO - Headers: {'xi-api-key': 'sk_75126a779a1a615ea72857fd28a67c99f8562079a0848d31', 'Content-Type': 'application/json', 'Accept': 'audio/mpeg'}
+2025-04-04 17:34:04,356 - assistant.speech_converter - INFO - Configurações de voz: {'stability': 0.6, 'similarity_boost': 0.7, 'style': 0.5, 'use_speaker_boost': True}
+2025-04-04 17:34:07,904 - assistant.speech_converter - INFO - Áudio gerado com sucesso: data/audio/speech_1743788047.mp3 (291780 bytes)
+2025-04-04 17:34:07,906 - main - INFO - Alarme de teste gerado: data/audio/speech_1743788047.mp3
+2025-04-04 17:34:07,909 - main - INFO - Reproduzindo áudio: data/audio/speech_1743788047.mp3
+2025-04-04 17:34:07,911 - assistant.audio_player - INFO - Playing audio file: data/audio/speech_1743788047.mp3
+2025-04-04 17:34:07,914 - assistant.audio_player - INFO - Attempting to play with: paplay
+2025-04-04 17:34:28,120 - main - INFO - Gerando alarme de teste usando APIs (OpenAI + ElevenLabs)
+2025-04-04 17:34:28,120 - main - INFO - Gerando mensagem personalizada com OpenAI
+2025-04-04 17:34:28,120 - main - INFO - Criando matérias de teste para demonstração
+2025-04-04 17:34:28,120 - assistant.text_generator - INFO - Enviando prompt para OpenAI: 
+        Hoje é Friday, 04 de April de 2025. O estudante está estudando as seguintes matérias: Matemática, Português, Ciências, História, Geografia.
+        
+        Gere uma mensagem matinal breve e ...
+2025-04-04 17:34:28,223 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-04 17:34:28,224 - openai._base_client - INFO - Retrying request to /chat/completions in 0.493891 seconds
+2025-04-04 17:34:28,778 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-04 17:34:28,779 - openai._base_client - INFO - Retrying request to /chat/completions in 0.860425 seconds
+2025-04-04 17:34:29,709 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-04 17:34:29,711 - assistant.text_generator - ERROR - Erro ao gerar mensagem diária: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-04-04 17:34:29,712 - assistant.text_generator - ERROR - Detalhes do erro:
+Traceback (most recent call last):
+  File "/home/runner/workspace/assistant/text_generator.py", line 52, in generate_daily_message
+    response = self.client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_utils/_utils.py", line 279, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/resources/chat/completions/completions.py", line 914, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 919, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1008, in _request
+    return self._retry_request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1057, in _retry_request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1008, in _request
+    return self._retry_request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1057, in _retry_request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1023, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-04-04 17:34:29,720 - main - INFO - Mensagem gerada pela OpenAI: Bom dia! Hoje é Friday, 04 de April de 2025.
+
+Hoje, recomendo que você se concentre em Ciências e Ma...
+2025-04-04 17:34:29,720 - main - INFO - Convertendo mensagem para áudio com ElevenLabs
+2025-04-04 17:34:29,720 - assistant.speech_converter - INFO - Enviando solicitação para ElevenLabs com ID da voz: 21m00Tcm4TlvDq8ikWAM
+2025-04-04 17:34:29,720 - assistant.speech_converter - INFO - Texto a ser convertido (primeiros 100 caracteres): Bom dia! Hoje é Friday, 04 de April de 2025.
+
+Hoje, recomendo que você se concentre em Ciências e Ma...
+2025-04-04 17:34:29,720 - assistant.speech_converter - INFO - URL: https://api.elevenlabs.io/v1/text-to-speech/21m00Tcm4TlvDq8ikWAM
+2025-04-04 17:34:29,722 - assistant.speech_converter - INFO - Headers: {'xi-api-key': 'sk_75126a779a1a615ea72857fd28a67c99f8562079a0848d31', 'Content-Type': 'application/json', 'Accept': 'audio/mpeg'}
+2025-04-04 17:34:29,722 - assistant.speech_converter - INFO - Configurações de voz: {'stability': 0.6, 'similarity_boost': 0.7, 'style': 0.5, 'use_speaker_boost': True}
+2025-04-04 17:34:33,123 - assistant.speech_converter - INFO - Áudio gerado com sucesso: data/audio/speech_1743788073.mp3 (285093 bytes)
+2025-04-04 17:34:33,123 - main - INFO - Alarme de teste gerado: data/audio/speech_1743788073.mp3
+2025-04-04 17:34:33,124 - main - INFO - Reproduzindo áudio: data/audio/speech_1743788073.mp3
+2025-04-04 17:34:33,124 - assistant.audio_player - INFO - Playing audio file: data/audio/speech_1743788073.mp3
+2025-04-04 17:34:33,125 - assistant.audio_player - INFO - Attempting to play with: paplay
+2025-04-04 17:45:56,938 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 17:45:56,947 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 17:45:56,948 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 17:45:56,948 - main - INFO - Schedule data loaded successfully
+2025-04-04 17:45:56,959 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 17:45:56,959 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 17:45:56,959 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 17:45:56,959 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 17:45:56,959 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 17:45:56,959 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 17:46:07,716 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 17:46:07,727 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 17:46:07,727 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 17:46:07,727 - main - INFO - Schedule data loaded successfully
+2025-04-04 17:46:07,747 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 17:46:07,748 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 17:46:07,748 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 17:46:07,748 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 17:46:07,748 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 17:46:07,748 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 17:47:41,596 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 17:47:41,606 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 17:47:41,606 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 17:47:41,606 - main - INFO - Schedule data loaded successfully
+2025-04-04 17:47:41,618 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 17:47:41,618 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 17:47:41,618 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 17:47:41,618 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 17:47:41,618 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 17:47:41,618 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 17:48:38,152 - main - INFO - Analisando imagem: dummy.png
+2025-04-04 17:48:38,161 - assistant.image_analyzer - WARNING - Image format png might not be supported
+2025-04-04 17:48:38,161 - assistant.image_analyzer - INFO - Sending image to Gemini API for analysis...
+2025-04-04 17:48:38,869 - assistant.image_analyzer - ERROR - Error analyzing image: 404 Gemini 1.0 Pro Vision has been deprecated on July 12, 2024. Consider switching to different model, for example gemini-1.5-flash.
+2025-04-04 17:48:38,869 - assistant.image_analyzer - ERROR - Exception details:
+Traceback (most recent call last):
+  File "/home/runner/workspace/assistant/image_analyzer.py", line 78, in analyze_image
+    response = model.generate_content([prompt, img])
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/google/generativeai/generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/google/ai/generativelanguage_v1beta/services/generative_service/client.py", line 835, in generate_content
+    response = rpc(
+               ^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/google/api_core/gapic_v1/method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/google/api_core/retry/retry_unary.py", line 293, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/google/api_core/retry/retry_unary.py", line 153, in retry_target
+    _retry_error_helper(
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/google/api_core/retry/retry_base.py", line 212, in _retry_error_helper
+    raise final_exc from source_exc
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/google/api_core/retry/retry_unary.py", line 144, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/google/api_core/timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/google/api_core/grpc_helpers.py", line 78, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 Gemini 1.0 Pro Vision has been deprecated on July 12, 2024. Consider switching to different model, for example gemini-1.5-flash.
+2025-04-04 17:49:00,328 - assistant.text_generator - INFO - Enviando mensagem para o chat: Como organizar meu tempo de estudo entre várias matérias?...
+2025-04-04 17:49:00,604 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-04 17:49:00,605 - openai._base_client - INFO - Retrying request to /chat/completions in 0.392110 seconds
+2025-04-04 17:49:01,072 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-04 17:49:01,072 - openai._base_client - INFO - Retrying request to /chat/completions in 0.869597 seconds
+2025-04-04 17:49:02,027 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-04-04 17:49:02,028 - assistant.text_generator - ERROR - Erro ao obter resposta do chat: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-04-04 17:49:02,028 - assistant.text_generator - ERROR - Detalhes do erro:
+Traceback (most recent call last):
+  File "/home/runner/workspace/assistant/text_generator.py", line 278, in get_chat_response
+    response = self.client.chat.completions.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_utils/_utils.py", line 279, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/resources/chat/completions/completions.py", line 914, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1242, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 919, in request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1008, in _request
+    return self._retry_request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1057, in _retry_request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1008, in _request
+    return self._retry_request(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1057, in _retry_request
+    return self._request(
+           ^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openai/_base_client.py", line 1023, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-04-04 17:54:48,780 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 17:54:48,788 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 17:54:48,788 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 17:54:48,788 - main - INFO - Schedule data loaded successfully
+2025-04-04 17:54:48,799 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 17:54:48,800 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 17:54:48,800 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 17:54:48,800 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 17:54:48,800 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 17:54:48,800 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 17:54:54,034 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 17:54:54,044 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 17:54:54,044 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 17:54:54,044 - main - INFO - Schedule data loaded successfully
+2025-04-04 17:54:54,061 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 17:54:54,061 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 17:54:54,061 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 17:54:54,061 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 17:54:54,062 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 17:54:54,062 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 17:55:38,401 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 17:55:38,414 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 17:55:38,414 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 17:55:38,414 - main - INFO - Schedule data loaded successfully
+2025-04-04 17:55:38,432 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 17:55:38,432 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 17:55:38,433 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 17:55:38,433 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 17:55:38,433 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 17:55:38,433 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 17:55:52,251 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 17:55:52,261 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 17:55:52,261 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 17:55:52,262 - main - INFO - Schedule data loaded successfully
+2025-04-04 17:55:52,278 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 17:55:52,278 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 17:55:52,278 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 17:55:52,278 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 17:55:52,278 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 17:55:52,278 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 17:56:09,990 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 17:56:09,999 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 17:56:10,000 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 17:56:10,000 - main - INFO - Schedule data loaded successfully
+2025-04-04 17:56:10,014 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 17:56:10,014 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 17:56:10,014 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 17:56:10,014 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 17:56:10,014 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 17:56:10,015 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 18:03:44,706 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:03:44,707 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 18:03:44,707 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:03:44,707 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:03:44,707 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 18:03:44,707 - main - INFO - Schedule data loaded successfully
+2025-04-04 18:03:44,720 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 18:03:44,721 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 18:03:44,721 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 18:03:44,721 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 18:03:44,721 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 18:03:44,721 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 18:04:43,807 - main - INFO - Analisando imagem: dummy.png
+2025-04-04 18:04:43,816 - root - INFO - Imagem aberta com sucesso, tamanho: (1025, 562)
+2025-04-04 18:04:43,817 - assistant.image_analyzer - WARNING - Image format png might not be supported
+2025-04-04 18:04:43,817 - assistant.image_analyzer - INFO - Sending image to Gemini API for analysis...
+2025-04-04 18:04:47,007 - assistant.image_analyzer - INFO - Image analysis complete. Response length: 1121
+2025-04-04 18:13:37,745 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:13:37,746 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 18:13:37,746 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:13:37,746 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:13:37,746 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 18:13:37,746 - main - INFO - Schedule data loaded successfully
+2025-04-04 18:13:37,759 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 18:13:37,759 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 18:13:37,759 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 18:13:37,759 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 18:13:37,760 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 18:13:37,760 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 18:15:07,993 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:15:07,996 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 18:15:07,996 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:15:07,996 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:15:07,996 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 18:15:07,996 - main - INFO - Schedule data loaded successfully
+2025-04-04 18:15:08,011 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 18:15:08,011 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 18:15:08,011 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 18:15:08,011 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 18:15:08,012 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 18:15:08,012 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 18:16:01,015 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:16:01,016 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 18:16:01,016 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:16:01,016 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:16:01,016 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 18:16:01,017 - main - INFO - Schedule data loaded successfully
+2025-04-04 18:16:01,046 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 18:16:01,046 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 18:16:01,046 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 18:16:01,046 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 18:16:01,046 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 18:16:01,046 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 18:16:16,253 - assistant.text_generator_new - INFO - Enviando mensagem para o chat: Como organizar meu tempo de estudo entre várias matérias?...
+2025-04-04 18:16:18,323 - assistant.text_generator_new - INFO - Resposta do assistente (Gemini): Olá! Tudo bem?  Entendo que você quer organizar seu tempo de estudo entre várias matérias.  Vamos fa...
+2025-04-04 18:20:29,405 - assistant.text_generator_new - INFO - Enviando mensagem para o chat: Estudix, o que você acha do presidente do Brasil? E qual o seu time de futebol favorito?...
+2025-04-04 18:20:30,729 - assistant.text_generator_new - INFO - Resposta do assistente (Gemini): Olá! 😊 Entendo sua curiosidade, mas como um assistente de estudos, meu foco é te ajudar com seus est...
+2025-04-04 18:22:57,370 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:22:57,370 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 18:22:57,370 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:22:57,370 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:22:57,371 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 18:22:57,371 - main - INFO - Schedule data loaded successfully
+2025-04-04 18:22:57,382 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 18:22:57,382 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 18:22:57,383 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 18:22:57,383 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 18:22:57,383 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 18:22:57,383 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 18:28:16,218 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:28:16,219 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 18:28:16,219 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:28:16,219 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:28:16,219 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 18:28:16,220 - main - INFO - Schedule data loaded successfully
+2025-04-04 18:28:16,231 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 18:28:16,232 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 18:28:16,232 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 18:28:16,232 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 18:28:16,232 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 18:28:16,232 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 18:38:18,447 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:38:18,448 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 18:38:18,448 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:38:18,448 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 18:38:18,448 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 18:38:18,449 - main - INFO - Schedule data loaded successfully
+2025-04-04 18:38:18,460 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 18:38:18,461 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 18:38:18,461 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 18:38:18,461 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 18:38:18,461 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 18:38:18,461 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 20:30:52,990 - assistant.text_generator_new - INFO - Enviando mensagem para o chat: Como organizar meu tempo de estudo entre várias matérias?...
+2025-04-04 20:30:55,606 - assistant.text_generator_new - INFO - Resposta do assistente (Gemini): Olá! Tudo bem?  Que ótimo que você quer organizar melhor seu tempo de estudo!  Para te ajudar da mel...
+2025-04-04 20:34:02,269 - main - INFO - Analisando imagem: dummy.png
+2025-04-04 20:34:02,319 - root - INFO - Imagem aberta com sucesso, tamanho: (1025, 562)
+2025-04-04 20:34:02,319 - assistant.image_analyzer - WARNING - Image format png might not be supported
+2025-04-04 20:34:02,319 - assistant.image_analyzer - INFO - Sending image to Gemini API for analysis...
+2025-04-04 20:34:07,889 - assistant.image_analyzer - INFO - Image analysis complete. Response length: 2535
+2025-04-04 20:47:13,760 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:47:13,760 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 20:47:13,760 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:47:13,760 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:47:13,761 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 20:47:13,761 - main - INFO - Schedule data loaded successfully
+2025-04-04 20:47:13,777 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 20:47:13,777 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 20:47:13,777 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 20:47:13,778 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 20:47:13,778 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 20:47:13,778 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 20:47:19,451 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:47:19,451 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 20:47:19,451 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:47:19,452 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:47:19,452 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 20:47:19,452 - main - INFO - Schedule data loaded successfully
+2025-04-04 20:47:19,468 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 20:47:19,468 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 20:47:19,468 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 20:47:19,468 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 20:47:19,469 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 20:47:19,469 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 20:47:57,501 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:47:57,501 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 20:47:57,501 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:47:57,502 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:47:57,502 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 20:47:57,502 - main - INFO - Schedule data loaded successfully
+2025-04-04 20:47:57,526 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 20:47:57,526 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 20:47:57,526 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 20:47:57,527 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 20:47:57,527 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 20:47:57,527 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 20:48:16,384 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:48:16,384 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 20:48:16,385 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:48:16,385 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:48:16,385 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 20:48:16,385 - main - INFO - Schedule data loaded successfully
+2025-04-04 20:48:16,397 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 20:48:16,397 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 20:48:16,397 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 20:48:16,398 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 20:48:16,398 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 20:48:16,398 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 20:49:44,593 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:49:44,593 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 20:49:44,593 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:49:44,594 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:49:44,595 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 20:49:44,596 - main - INFO - Schedule data loaded successfully
+2025-04-04 20:49:44,657 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 20:49:44,659 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 20:49:44,659 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 20:49:44,659 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 20:49:44,659 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 20:49:44,662 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 20:51:06,664 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:51:06,664 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 20:51:06,665 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:51:06,665 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:51:06,665 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 20:51:06,665 - main - INFO - Schedule data loaded successfully
+2025-04-04 20:51:06,679 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 20:51:06,680 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 20:51:06,680 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 20:51:06,680 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 20:51:06,680 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 20:51:06,681 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 20:51:19,960 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:51:19,961 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 20:51:19,961 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:51:19,961 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 20:51:19,961 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 20:51:19,961 - main - INFO - Schedule data loaded successfully
+2025-04-04 20:51:19,986 - main - INFO - Agendado alarme para Seg às 21:28 (Horário de Brasília)
+2025-04-04 20:51:19,987 - main - INFO - Agendado alarme para Ter às 21:28 (Horário de Brasília)
+2025-04-04 20:51:19,987 - main - INFO - Agendado alarme para Qua às 21:28 (Horário de Brasília)
+2025-04-04 20:51:19,987 - main - INFO - Agendado alarme para Qui às 21:28 (Horário de Brasília)
+2025-04-04 20:51:19,987 - main - INFO - Agendado alarme para Sex às 21:28 (Horário de Brasília)
+2025-04-04 20:51:19,987 - main - INFO - Agendados 1 alarmes no total
+2025-04-04 20:52:16,792 - main - ERROR - Exception on /study_mode [GET]
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/main.py", line 663, in study_mode
+    return render_template('study_mode.html', subject=subject, duration_min=duration_min)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/jinja2/environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/jinja2/environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/runner/workspace/templates/study_mode.html", line 137, in top-level template code
+    <a href="{{ url_for('assistant') }}" class="btn btn-outline-primary">
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/werkzeug/routing/map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'assistant'. Did you mean 'assistant_page' instead?
+2025-04-04 20:52:52,125 - main - INFO - Analisando imagem: dummy.png
+2025-04-04 20:52:52,156 - root - INFO - Imagem aberta com sucesso, tamanho: (1025, 562)
+2025-04-04 20:52:52,156 - assistant.image_analyzer - WARNING - Image format png might not be supported
+2025-04-04 20:52:52,156 - assistant.image_analyzer - INFO - Sending image to Gemini API for analysis...
+2025-04-04 20:52:55,433 - assistant.image_analyzer - INFO - Image analysis complete. Response length: 1271
+2025-04-04 20:54:13,050 - main - ERROR - Exception on /study_mode [GET]
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/main.py", line 663, in study_mode
+    return render_template('study_mode.html', subject=subject, duration_min=duration_min)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/jinja2/environment.py", line 1295, in render
+    self.environment.handle_exception()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/jinja2/environment.py", line 942, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/runner/workspace/templates/study_mode.html", line 137, in top-level template code
+    <a href="{{ url_for('assistant') }}" class="btn btn-outline-primary">
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 1121, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/flask/app.py", line 1110, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/werkzeug/routing/map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'assistant'. Did you mean 'assistant_page' instead?
+2025-04-04 20:58:52,801 - assistant.text_generator_new - INFO - Enviando mensagem para o chat: Pode me criar um alarme para estudar matemática às 19h?...
+2025-04-04 20:58:54,578 - assistant.text_generator_new - INFO - Resposta do assistente (Gemini): Olá! Tudo bem?  Adorei a sua iniciativa em querer estudar matemática!  Criar um horário específico p...
+2025-04-04 21:00:23,377 - assistant.schedule_manager - INFO - Schedule saved successfully
+2025-04-04 21:00:23,377 - assistant.schedule_manager - INFO - Removed alarm: {'time': '21:28', 'days': ['Seg', 'Ter', 'Qua', 'Qui', 'Sex']}
+2025-04-04 21:00:23,377 - main - INFO - Agendados 0 alarmes no total
+2025-04-04 21:01:51,222 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 21:01:51,223 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 21:01:51,223 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 21:01:51,224 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 21:01:51,224 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 21:01:51,224 - main - INFO - Schedule data loaded successfully
+2025-04-04 21:01:51,243 - main - INFO - Agendados 0 alarmes no total
+2025-04-04 21:03:05,959 - main - INFO - Usando mensagem de exemplo (modo simples)
+2025-04-04 21:03:05,959 - main - INFO - Alarme de teste gerado: data/audio/alarme_exemplo_1743800585.txt
+2025-04-04 21:03:17,316 - main - INFO - Usando mensagem de exemplo (modo simples)
+2025-04-04 21:03:17,316 - main - INFO - Alarme de teste gerado: data/audio/alarme_exemplo_1743800597.txt
+2025-04-04 21:03:23,037 - main - INFO - Usando mensagem de exemplo (modo simples)
+2025-04-04 21:03:23,038 - main - INFO - Alarme de teste gerado: data/audio/alarme_exemplo_1743800603.txt
+2025-04-04 21:04:25,133 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 21:04:25,133 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 21:04:25,133 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 21:04:25,133 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 21:04:25,133 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 21:04:25,133 - main - INFO - Schedule data loaded successfully
+2025-04-04 21:04:25,145 - main - INFO - Agendados 0 alarmes no total
+2025-04-04 21:04:55,954 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 21:04:55,955 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-04 21:04:55,955 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 21:04:55,955 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-04 21:04:55,955 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-04 21:04:55,955 - main - INFO - Schedule data loaded successfully
+2025-04-04 21:04:55,975 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 19:05:11,453 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:05:11,454 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 19:05:11,454 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:05:11,455 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:05:11,455 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 19:05:11,455 - main - INFO - Schedule data loaded successfully
+2025-04-09 19:05:11,473 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 19:07:05,612 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:07:05,613 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 19:07:05,614 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:07:05,614 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:07:05,614 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 19:07:05,614 - main - INFO - Schedule data loaded successfully
+2025-04-09 19:07:05,625 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 19:10:21,337 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:10:21,338 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 19:10:21,338 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:10:21,338 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:10:21,338 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 19:10:21,338 - main - INFO - Schedule data loaded successfully
+2025-04-09 19:10:21,350 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 19:11:05,214 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:11:05,215 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 19:11:05,215 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:11:05,215 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:11:05,215 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 19:11:05,216 - main - INFO - Schedule data loaded successfully
+2025-04-09 19:11:05,228 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 19:11:18,875 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:11:18,876 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 19:11:18,876 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:11:18,876 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:11:18,876 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 19:11:18,876 - main - INFO - Schedule data loaded successfully
+2025-04-09 19:11:18,891 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 19:11:29,748 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:11:29,749 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 19:11:29,749 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:11:29,749 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:11:29,749 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 19:11:29,749 - main - INFO - Schedule data loaded successfully
+2025-04-09 19:11:29,763 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 19:12:16,511 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:12:16,511 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 19:12:16,511 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:12:16,512 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:12:16,512 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 19:12:16,512 - main - INFO - Schedule data loaded successfully
+2025-04-09 19:12:16,522 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 19:12:22,185 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:12:22,185 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 19:12:22,185 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:12:22,185 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:12:22,185 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 19:12:22,186 - main - INFO - Schedule data loaded successfully
+2025-04-09 19:12:22,199 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 19:14:18,964 - main - INFO - Usando mensagem de exemplo (modo simples)
+2025-04-09 19:14:18,965 - main - INFO - Alarme de teste gerado: data/audio/alarme_exemplo_1744226058.txt
+2025-04-09 19:14:28,194 - main - INFO - Usando mensagem de exemplo (modo simples)
+2025-04-09 19:14:28,194 - main - INFO - Alarme de teste gerado: data/audio/alarme_exemplo_1744226068.txt
+2025-04-09 19:20:22,917 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:20:22,917 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 19:20:22,917 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:20:22,918 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:20:22,918 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 19:20:22,918 - main - INFO - Schedule data loaded successfully
+2025-04-09 19:20:22,931 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 19:20:29,596 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:20:29,596 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 19:20:29,596 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:20:29,597 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:20:29,597 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 19:20:29,597 - main - INFO - Schedule data loaded successfully
+2025-04-09 19:20:29,619 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 19:35:02,402 - main - INFO - Usando mensagem de exemplo (modo simples)
+2025-04-09 19:35:02,409 - main - INFO - Alarme de teste gerado: data/audio/alarme_exemplo_1744227302.txt
+2025-04-09 19:35:05,952 - main - INFO - Gerando alarme de teste usando APIs (Google Gemini + ElevenLabs)
+2025-04-09 19:35:05,952 - main - INFO - Gerando mensagem personalizada com Google Gemini
+2025-04-09 19:35:05,952 - main - INFO - Criando matérias de teste para demonstração
+2025-04-09 19:35:05,952 - assistant.text_generator_new - INFO - Enviando prompt para Google Gemini: 
+        Você é um assistente de estudos amigável e motivador chamado Estudix.
+        
+        Hoje é quarta-feira, 9 de abril de 2025. O estudante está estudando as seguintes matérias: Matemática, P...
+2025-04-09 19:35:07,116 - assistant.text_generator_new - INFO - Mensagem gerada com sucesso pelo Gemini: E aí, tudo bem? Bom dia!  ☀️
+
+Hoje é quarta-feira, dia de arrasar nos estudos!  Que tal focarmos em ...
+2025-04-09 19:35:07,116 - main - INFO - Mensagem gerada pelo Gemini: E aí, tudo bem? Bom dia!  ☀️
+
+Hoje é quarta-feira, dia de arrasar nos estudos!  Que tal focarmos em ...
+2025-04-09 19:35:07,116 - main - INFO - Convertendo mensagem para áudio com ElevenLabs
+2025-04-09 19:35:07,116 - assistant.speech_converter - INFO - Enviando solicitação para ElevenLabs com ID da voz: 21m00Tcm4TlvDq8ikWAM
+2025-04-09 19:35:07,116 - assistant.speech_converter - INFO - Texto a ser convertido (primeiros 100 caracteres): E aí, tudo bem? Bom dia!  ☀️
+
+Hoje é quarta-feira, dia de arrasar nos estudos!  Que tal focarmos em ...
+2025-04-09 19:35:07,116 - assistant.speech_converter - INFO - URL: https://api.elevenlabs.io/v1/text-to-speech/21m00Tcm4TlvDq8ikWAM
+2025-04-09 19:35:07,116 - assistant.speech_converter - INFO - Headers: {'xi-api-key': 'sk_75126a779a1a615ea72857fd28a67c99f8562079a0848d31', 'Content-Type': 'application/json', 'Accept': 'audio/mpeg'}
+2025-04-09 19:35:07,117 - assistant.speech_converter - INFO - Configurações de voz: {'stability': 0.6, 'similarity_boost': 0.7, 'style': 0.5, 'use_speaker_boost': True}
+2025-04-09 19:35:12,799 - assistant.speech_converter - INFO - Áudio gerado com sucesso: data/audio/speech_1744227312.mp3 (442663 bytes)
+2025-04-09 19:35:12,799 - main - INFO - Alarme de teste gerado: data/audio/speech_1744227312.mp3
+2025-04-09 19:35:12,799 - main - INFO - Reproduzindo áudio: data/audio/speech_1744227312.mp3
+2025-04-09 19:35:12,799 - assistant.audio_player - INFO - Playing audio file: data/audio/speech_1744227312.mp3
+2025-04-09 19:35:12,799 - assistant.audio_player - INFO - Attempting to play with: paplay
+2025-04-09 19:35:37,968 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:35:37,968 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 19:35:37,968 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:35:37,968 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:35:37,969 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 19:35:37,969 - main - INFO - Schedule data loaded successfully
+2025-04-09 19:35:37,982 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 19:35:37,990 - main - INFO - Gerando alarme de teste usando APIs (Google Gemini + ElevenLabs)
+2025-04-09 19:35:37,990 - main - INFO - Gerando mensagem personalizada com Google Gemini
+2025-04-09 19:35:37,990 - main - INFO - Criando matérias de teste para demonstração
+2025-04-09 19:35:37,991 - assistant.text_generator_new - INFO - Enviando prompt para Google Gemini: 
+        Você é um assistente de estudos amigável e motivador chamado Estudix.
+        
+        Hoje é quarta-feira, 9 de abril de 2025. O estudante está estudando as seguintes matérias: Matemática, P...
+2025-04-09 19:35:39,251 - assistant.text_generator_new - INFO - Mensagem gerada com sucesso pelo Gemini: E aí, Estudante!  Bom dia, quarta-feira! ✨
+
+Hoje, vamos focar em Matemática e Português, ok?  Pra Ma...
+2025-04-09 19:35:39,252 - main - INFO - Mensagem gerada pelo Gemini: E aí, Estudante!  Bom dia, quarta-feira! ✨
+
+Hoje, vamos focar em Matemática e Português, ok?  Pra Ma...
+2025-04-09 19:35:39,252 - main - INFO - Convertendo mensagem para áudio com ElevenLabs
+2025-04-09 19:35:39,252 - assistant.speech_converter - INFO - Enviando solicitação para ElevenLabs com ID da voz: 21m00Tcm4TlvDq8ikWAM
+2025-04-09 19:35:39,252 - assistant.speech_converter - INFO - Texto a ser convertido (primeiros 100 caracteres): E aí, Estudante!  Bom dia, quarta-feira! ✨
+
+Hoje, vamos focar em Matemática e Português, ok?  Pra Ma...
+2025-04-09 19:35:39,252 - assistant.speech_converter - INFO - URL: https://api.elevenlabs.io/v1/text-to-speech/21m00Tcm4TlvDq8ikWAM
+2025-04-09 19:35:39,253 - assistant.speech_converter - INFO - Headers: {'xi-api-key': 'sk_75126a779a1a615ea72857fd28a67c99f8562079a0848d31', 'Content-Type': 'application/json', 'Accept': 'audio/mpeg'}
+2025-04-09 19:35:39,253 - assistant.speech_converter - INFO - Configurações de voz: {'stability': 0.6, 'similarity_boost': 0.7, 'style': 0.5, 'use_speaker_boost': True}
+2025-04-09 19:35:47,234 - assistant.speech_converter - INFO - Áudio gerado com sucesso: data/audio/speech_1744227347.mp3 (631581 bytes)
+2025-04-09 19:35:47,235 - main - INFO - Alarme de teste gerado: data/audio/speech_1744227347.mp3
+2025-04-09 19:35:47,235 - main - INFO - Reproduzindo áudio: data/audio/speech_1744227347.mp3
+2025-04-09 19:35:47,235 - assistant.audio_player - INFO - Playing audio file: data/audio/speech_1744227347.mp3
+2025-04-09 19:35:47,235 - assistant.audio_player - INFO - Attempting to play with: paplay
+2025-04-09 19:36:09,743 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:36:09,743 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 19:36:09,744 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:36:09,744 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:36:09,744 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 19:36:09,744 - main - INFO - Schedule data loaded successfully
+2025-04-09 19:36:09,758 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 19:36:50,567 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:36:50,568 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 19:36:50,568 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:36:50,568 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:36:50,568 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 19:36:50,569 - main - INFO - Schedule data loaded successfully
+2025-04-09 19:36:50,581 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 19:37:33,343 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:37:33,343 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 19:37:33,343 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:37:33,343 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:37:33,343 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 19:37:33,343 - main - INFO - Schedule data loaded successfully
+2025-04-09 19:37:33,354 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 19:38:16,056 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:38:16,056 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 19:38:16,056 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:38:16,057 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:38:16,057 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 19:38:16,057 - main - INFO - Schedule data loaded successfully
+2025-04-09 19:38:16,068 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 19:38:26,679 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:38:26,680 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 19:38:26,680 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:38:26,680 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 19:38:26,680 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 19:38:26,680 - main - INFO - Schedule data loaded successfully
+2025-04-09 19:38:26,692 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 19:38:34,815 - main - INFO - Usando mensagem de exemplo (modo simples)
+2025-04-09 19:38:34,816 - main - INFO - Alarme de teste gerado: data/audio/alarme_exemplo_1744227514.txt
+2025-04-09 20:15:46,449 - main - INFO - Gerando alarme de teste usando APIs (Google Gemini + ElevenLabs)
+2025-04-09 20:15:46,450 - main - INFO - Gerando mensagem personalizada com Google Gemini
+2025-04-09 20:15:46,450 - main - INFO - Criando matérias de teste para demonstração
+2025-04-09 20:15:46,451 - assistant.text_generator_new - INFO - Enviando prompt para Google Gemini: 
+        Você é um assistente de estudos amigável e motivador chamado Estudix.
+        
+        Hoje é quarta-feira, 9 de abril de 2025. O estudante está estudando as seguintes matérias: Matemática, P...
+2025-04-09 20:15:47,545 - assistant.text_generator_new - INFO - Mensagem gerada com sucesso pelo Gemini: E aí, estudante! Bom dia!  ☀️
+
+Hoje é quarta-feira, dia de dar o nosso melhor!  Que tal focarmos em ...
+2025-04-09 20:15:47,545 - main - INFO - Mensagem gerada pelo Gemini: E aí, estudante! Bom dia!  ☀️
+
+Hoje é quarta-feira, dia de dar o nosso melhor!  Que tal focarmos em ...
+2025-04-09 20:15:47,545 - main - INFO - Convertendo mensagem para áudio com ElevenLabs
+2025-04-09 20:15:47,545 - assistant.speech_converter - INFO - Enviando solicitação para ElevenLabs com ID da voz: 21m00Tcm4TlvDq8ikWAM
+2025-04-09 20:15:47,545 - assistant.speech_converter - INFO - Texto a ser convertido (primeiros 100 caracteres): E aí, estudante! Bom dia!  ☀️
+
+Hoje é quarta-feira, dia de dar o nosso melhor!  Que tal focarmos em ...
+2025-04-09 20:15:47,545 - assistant.speech_converter - INFO - URL: https://api.elevenlabs.io/v1/text-to-speech/21m00Tcm4TlvDq8ikWAM
+2025-04-09 20:15:47,545 - assistant.speech_converter - INFO - Headers: {'xi-api-key': 'sk_75126a779a1a615ea72857fd28a67c99f8562079a0848d31', 'Content-Type': 'application/json', 'Accept': 'audio/mpeg'}
+2025-04-09 20:15:47,545 - assistant.speech_converter - INFO - Configurações de voz: {'stability': 0.6, 'similarity_boost': 0.7, 'style': 0.5, 'use_speaker_boost': True}
+2025-04-09 20:15:52,767 - assistant.speech_converter - INFO - Áudio gerado com sucesso: data/audio/speech_1744229752.mp3 (395852 bytes)
+2025-04-09 20:15:52,767 - main - INFO - Alarme de teste gerado: data/audio/speech_1744229752.mp3
+2025-04-09 20:15:52,767 - main - INFO - Áudio gerado e pronto para ser reproduzido pelo navegador: data/audio/speech_1744229752.mp3
+2025-04-09 20:21:41,600 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:21:41,600 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 20:21:41,600 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:21:41,601 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:21:41,601 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 20:21:41,601 - main - INFO - Schedule data loaded successfully
+2025-04-09 20:21:41,612 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 20:21:42,496 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:21:42,496 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 20:21:42,496 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:21:42,497 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:21:42,497 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 20:21:42,497 - main - INFO - Schedule data loaded successfully
+2025-04-09 20:21:42,507 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 20:22:13,240 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:22:13,240 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 20:22:13,241 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:22:13,241 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:22:13,241 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 20:22:13,241 - main - INFO - Schedule data loaded successfully
+2025-04-09 20:22:13,253 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 20:22:43,984 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:22:43,984 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 20:22:43,984 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:22:43,985 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:22:43,985 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 20:22:43,985 - main - INFO - Schedule data loaded successfully
+2025-04-09 20:22:43,997 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 20:24:07,886 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:24:07,886 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 20:24:07,886 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:24:07,886 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:24:07,886 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 20:24:07,887 - main - INFO - Schedule data loaded successfully
+2025-04-09 20:24:07,899 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 20:24:43,676 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:24:43,676 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 20:24:43,676 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:24:43,677 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:24:43,677 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 20:24:43,677 - main - INFO - Schedule data loaded successfully
+2025-04-09 20:24:43,687 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 20:26:47,793 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:26:47,794 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 20:26:47,794 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:26:47,794 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:26:47,794 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 20:26:47,794 - main - INFO - Schedule data loaded successfully
+2025-04-09 20:26:47,807 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 20:29:08,960 - main - INFO - Analisando imagem: dummy.png
+2025-04-09 20:29:09,008 - root - INFO - Imagem aberta com sucesso, tamanho: (1025, 562)
+2025-04-09 20:29:09,008 - assistant.image_analyzer - WARNING - Image format png might not be supported
+2025-04-09 20:29:09,008 - assistant.image_analyzer - INFO - Sending image to Gemini API for analysis...
+2025-04-09 20:29:12,376 - assistant.image_analyzer - INFO - Image analysis complete. Response length: 1374
+2025-04-09 20:38:34,950 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:38:34,952 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 20:38:34,952 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:38:34,952 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:38:34,952 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 20:38:34,952 - main - INFO - Schedule data loaded successfully
+2025-04-09 20:38:34,963 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 20:38:36,584 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:38:36,585 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 20:38:36,585 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:38:36,585 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:38:36,585 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 20:38:36,585 - main - INFO - Schedule data loaded successfully
+2025-04-09 20:38:36,604 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 20:39:26,787 - main - INFO - Analisando imagem de cronograma: dummy.png
+2025-04-09 20:39:26,816 - root - INFO - Imagem aberta com sucesso, tamanho: (1025, 562)
+2025-04-09 20:39:26,816 - assistant.image_analyzer - WARNING - Image format png might not be supported
+2025-04-09 20:39:26,816 - assistant.image_analyzer - INFO - Sending image to Gemini API for analysis...
+2025-04-09 20:39:33,840 - assistant.image_analyzer - INFO - Image analysis complete. Response length: 1968
+2025-04-09 20:39:33,840 - assistant.text_generator_new - ERROR - Erro ao processar requisição de chat: cannot access local variable 'time' where it is not associated with a value
+2025-04-09 20:39:33,840 - assistant.text_generator_new - ERROR - Detalhes do erro:
+Traceback (most recent call last):
+  File "/home/runner/workspace/assistant/text_generator_new.py", line 349, in get_chat_response
+    time.sleep(1.5)  # Atraso na primeira ou segunda mensagem
+    ^^^^
+UnboundLocalError: cannot access local variable 'time' where it is not associated with a value
+2025-04-09 20:39:33,848 - assistant.schedule_manager - INFO - Schedule saved successfully
+2025-04-09 20:43:44,437 - main - INFO - Analisando imagem de cronograma: dummy.png
+2025-04-09 20:43:44,438 - root - INFO - Imagem aberta com sucesso, tamanho: (1025, 562)
+2025-04-09 20:43:44,439 - assistant.image_analyzer - WARNING - Image format png might not be supported
+2025-04-09 20:43:44,439 - assistant.image_analyzer - INFO - Sending image to Gemini API for analysis...
+2025-04-09 20:43:51,883 - assistant.image_analyzer - INFO - Image analysis complete. Response length: 2249
+2025-04-09 20:43:51,884 - assistant.text_generator_new - ERROR - Erro ao processar requisição de chat: cannot access local variable 'time' where it is not associated with a value
+2025-04-09 20:43:51,884 - assistant.text_generator_new - ERROR - Detalhes do erro:
+Traceback (most recent call last):
+  File "/home/runner/workspace/assistant/text_generator_new.py", line 349, in get_chat_response
+    time.sleep(1.5)  # Atraso na primeira ou segunda mensagem
+    ^^^^
+UnboundLocalError: cannot access local variable 'time' where it is not associated with a value
+2025-04-09 20:43:51,885 - assistant.schedule_manager - INFO - Schedule saved successfully
+2025-04-09 20:44:29,069 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:44:29,070 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 20:44:29,070 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:44:29,070 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:44:29,070 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 20:44:29,071 - main - INFO - Schedule data loaded successfully
+2025-04-09 20:44:29,082 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 20:44:36,674 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:44:36,674 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 20:44:36,674 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:44:36,675 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:44:36,675 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 20:44:36,675 - main - INFO - Schedule data loaded successfully
+2025-04-09 20:44:36,686 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 20:45:32,295 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:45:32,295 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 20:45:32,295 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:45:32,295 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 20:45:32,295 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 20:45:32,295 - main - INFO - Schedule data loaded successfully
+2025-04-09 20:45:32,311 - main - INFO - Agendados 0 alarmes no total
+2025-04-09 21:04:18,229 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 21:04:18,229 - assistant.audio_player - INFO - Initializing audio player on Linux
+2025-04-09 21:04:18,230 - assistant.text_generator_new - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 21:04:18,230 - assistant.image_analyzer - WARNING - Using default Google API key. Consider setting GOOGLE_API_KEY environment variable.
+2025-04-09 21:04:18,230 - assistant.schedule_manager - INFO - Schedule loaded successfully
+2025-04-09 21:04:18,230 - main - INFO - Schedule data loaded successfully
+2025-04-09 21:04:18,246 - main - INFO - Agendados 0 alarmes no total
